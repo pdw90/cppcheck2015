@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gcs/!svn/ver/6/cppcheck-1.69/test/cfg
+END
+gnu.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gcs/!svn/ver/6/cppcheck-1.69/test/cfg/gnu.c
+END
+std.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gcs/!svn/ver/6/cppcheck-1.69/test/cfg/std.c
+END
+windows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gcs/!svn/ver/6/cppcheck-1.69/test/cfg/windows.cpp
+END
+posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gcs/!svn/ver/6/cppcheck-1.69/test/cfg/posix.c
+END
+runtests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gcs/!svn/ver/6/cppcheck-1.69/test/cfg/runtests.sh
+END

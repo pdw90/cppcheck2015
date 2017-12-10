@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files
+END
+foo1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files/foo1.cpp
+END
+foo2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files/foo2.cxx
+END
+foo3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files/foo3.cc
+END
+foo4.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files/foo4.c
+END
+foo5.c++
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files/foo5.c++
+END
+bar1.foo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files/bar1.foo
+END
+foo6.txx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files/foo6.txx
+END
+foo7.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files/foo7.tpp
+END
+bar1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/files/bar1
+END

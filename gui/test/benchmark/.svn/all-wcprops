@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/benchmark
+END
+common.pri
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/benchmark/common.pri
+END
+benchmark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/benchmark/benchmark.pro
+END

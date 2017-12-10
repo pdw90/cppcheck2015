@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/translationhandler
+END
+testtranslationhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/translationhandler/testtranslationhandler.cpp
+END
+testtranslationhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/translationhandler/testtranslationhandler.h
+END
+translationhandler.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/translationhandler/translationhandler.pro
+END

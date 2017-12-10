@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport/README.txt
+END
+tox.ini
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport/tox.ini
+END
+example.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport/example.xml
+END
+example.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport/example.cc
+END
+cppcheck-htmlreport
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport/cppcheck-htmlreport
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport/setup.py
+END
+check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport/check.sh
+END
+test_htmlreport.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport/test_htmlreport.py
+END
+test_suppressions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gcs/!svn/ver/6/cppcheck-1.69/htmlreport/test_suppressions.txt
+END

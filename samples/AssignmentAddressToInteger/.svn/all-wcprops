@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/AssignmentAddressToInteger
+END
+out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/AssignmentAddressToInteger/out.txt
+END
+good.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/AssignmentAddressToInteger/good.c
+END
+bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/AssignmentAddressToInteger/bad.c
+END

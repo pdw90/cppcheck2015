@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/externals/tinyxml
+END
+tinyxml.pri
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gcs/!svn/ver/6/cppcheck-1.69/externals/tinyxml/tinyxml.pri
+END
+tinyxml2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gcs/!svn/ver/6/cppcheck-1.69/externals/tinyxml/tinyxml2.cpp
+END
+tinyxml2.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gcs/!svn/ver/6/cppcheck-1.69/externals/tinyxml/tinyxml2.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gcs/!svn/ver/6/cppcheck-1.69/externals/tinyxml/CMakeLists.txt
+END

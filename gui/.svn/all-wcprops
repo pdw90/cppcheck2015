@@ -1,0 +1,569 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui
+END
+xmlreportv2.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/xmlreportv2.h
+END
+application.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/application.cpp
+END
+checkthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/checkthread.h
+END
+projectfile.ui
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/projectfile.ui
+END
+scratchpad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/scratchpad.cpp
+END
+resultstree.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/resultstree.h
+END
+cppcheck_fi.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_fi.ts
+END
+cppcheck_ru.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_ru.ts
+END
+cppcheck_de.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_de.ts
+END
+applicationdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/applicationdialog.h
+END
+scratchpad.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/scratchpad.h
+END
+filelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/filelist.h
+END
+about.ui
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/about.ui
+END
+platforms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/platforms.cpp
+END
+showtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/showtypes.h
+END
+projectfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/projectfile.txt
+END
+gui.cppcheck
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/gui.cppcheck
+END
+cppcheck_ja.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_ja.ts
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/mainwindow.cpp
+END
+logview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/logview.cpp
+END
+txtreport.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/txtreport.h
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/common.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/mainwindow.h
+END
+logview.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/logview.h
+END
+applicationlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/applicationlist.cpp
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/common.h
+END
+cppcheck_it.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_it.ts
+END
+translationhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/translationhandler.cpp
+END
+report.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/report.h
+END
+gui.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/gui.qrc
+END
+translationhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/translationhandler.h
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/icon.png
+END
+csvreport.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/csvreport.h
+END
+threadhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/threadhandler.cpp
+END
+cppcheck_nl.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_nl.ts
+END
+logview.ui
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/logview.ui
+END
+settings.ui
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/settings.ui
+END
+xmlreport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/xmlreport.cpp
+END
+xmlreportv1.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/xmlreportv1.h
+END
+stats.ui
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/stats.ui
+END
+cppcheck_es.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_es.ts
+END
+xmlreport.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/xmlreport.h
+END
+file.ui
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/file.ui
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/CMakeLists.txt
+END
+checkthread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/checkthread.cpp
+END
+resultsview.ui
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/resultsview.ui
+END
+resultstree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/resultstree.cpp
+END
+scratchpad.ui
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/scratchpad.ui
+END
+projectfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/projectfile.cpp
+END
+application.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/application.h
+END
+aboutdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/aboutdialog.cpp
+END
+cppcheck_zh_CN.ts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_zh_CN.ts
+END
+cppcheck-gui.rc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck-gui.rc
+END
+applicationdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/applicationdialog.cpp
+END
+project.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/project.cpp
+END
+cppcheck_ko.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_ko.ts
+END
+filelist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/filelist.cpp
+END
+aboutdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/aboutdialog.h
+END
+projectfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/projectfile.h
+END
+erroritem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/erroritem.cpp
+END
+resultsview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/resultsview.cpp
+END
+showtypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/showtypes.cpp
+END
+projectfiledialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/projectfiledialog.cpp
+END
+project.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/project.h
+END
+resultsview.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/resultsview.h
+END
+erroritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/erroritem.h
+END
+projectfiledialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/projectfiledialog.h
+END
+txtreport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/txtreport.cpp
+END
+platforms.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/platforms.h
+END
+threadresult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/threadresult.cpp
+END
+statsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/statsdialog.cpp
+END
+fileviewdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/fileviewdialog.cpp
+END
+checkstatistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/checkstatistics.cpp
+END
+settingsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/settingsdialog.cpp
+END
+statsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/statsdialog.h
+END
+threadresult.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/threadresult.h
+END
+fileviewdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/fileviewdialog.h
+END
+checkstatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/checkstatistics.h
+END
+settingsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/settingsdialog.h
+END
+cppcheck_fr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_fr.ts
+END
+applicationlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/applicationlist.h
+END
+report.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/report.cpp
+END
+main.ui
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/main.ui
+END
+cppcheck.ico
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck.ico
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/main.cpp
+END
+icon.svg
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/icon.svg
+END
+csvreport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/csvreport.cpp
+END
+cppcheck_sv.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_sv.ts
+END
+application.ui
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/application.ui
+END
+cppcheck_sr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/cppcheck_sr.ts
+END
+threadhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/threadhandler.h
+END
+gui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/gui.pro
+END
+xmlreportv1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/xmlreportv1.cpp
+END
+xmlreportv2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/xmlreportv2.cpp
+END

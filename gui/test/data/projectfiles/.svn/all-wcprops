@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/projectfiles
+END
+simple.cppcheck
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/projectfiles/simple.cppcheck
+END
+simple_noroot.cppcheck
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/projectfiles/simple_noroot.cppcheck
+END
+simple_ignore.cppcheck
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/data/projectfiles/simple_ignore.cppcheck
+END

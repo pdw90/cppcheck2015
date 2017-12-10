@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg
+END
+sdl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/sdl.cfg
+END
+avr.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/avr.cfg
+END
+microsoft_sal.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/microsoft_sal.cfg
+END
+gnu.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/gnu.cfg
+END
+gtk.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/gtk.cfg
+END
+std.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/std.cfg
+END
+windows.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/windows.cfg
+END
+posix.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/posix.cfg
+END
+cppcheck-cfg.rng
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/cppcheck-cfg.rng
+END
+qt.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cfg/qt.cfg
+END

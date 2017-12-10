@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/gcs/!svn/ver/6/cppcheck-1.69/man
+END
+cppcheck.1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/man/cppcheck.1.xml
+END
+buildman.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gcs/!svn/ver/6/cppcheck-1.69/man/buildman.sh
+END
+cppcheck-design.docbook
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gcs/!svn/ver/6/cppcheck-1.69/man/cppcheck-design.docbook
+END
+manual.docbook
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/man/manual.docbook
+END
+writing-rules-1.docbook
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gcs/!svn/ver/6/cppcheck-1.69/man/writing-rules-1.docbook
+END
+writing-rules-2.docbook
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gcs/!svn/ver/6/cppcheck-1.69/man/writing-rules-2.docbook
+END
+writing-rules-3.docbook
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gcs/!svn/ver/6/cppcheck-1.69/man/writing-rules-3.docbook
+END

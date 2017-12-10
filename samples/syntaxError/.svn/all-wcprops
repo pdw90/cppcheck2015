@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/syntaxError
+END
+out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/syntaxError/out.txt
+END
+good.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/syntaxError/good.c
+END
+bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/syntaxError/bad.c
+END

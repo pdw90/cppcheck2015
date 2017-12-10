@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/autoVariables
+END
+out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/autoVariables/out.txt
+END
+good.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/autoVariables/good.c
+END
+bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gcs/!svn/ver/6/cppcheck-1.69/samples/autoVariables/bad.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/help
+END
+manual.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/help/manual.html
+END
+online-help.qhp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/help/online-help.qhp
+END
+buildhelp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/help/buildhelp.bat
+END
+online-help.qhcp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/help/online-help.qhcp
+END

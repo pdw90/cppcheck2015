@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/gcs/!svn/ver/9/cppcheck-1.69
+END
+generate_coverage_report
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gcs/!svn/ver/6/cppcheck-1.69/generate_coverage_report
+END
+runastyle.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gcs/!svn/ver/6/cppcheck-1.69/runastyle.bat
+END
+cppcheck.opensdf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gcs/!svn/ver/8/cppcheck-1.69/cppcheck.opensdf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gcs/!svn/ver/6/cppcheck-1.69/CMakeLists.txt
+END
+build-pcre.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gcs/!svn/ver/6/cppcheck-1.69/build-pcre.txt
+END
+doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gcs/!svn/ver/6/cppcheck-1.69/doxyfile
+END
+cppcheck.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cppcheck.cbp
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gcs/!svn/ver/6/cppcheck-1.69/AUTHORS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gcs/!svn/ver/6/cppcheck-1.69/Makefile
+END
+createrelease
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gcs/!svn/ver/6/cppcheck-1.69/createrelease
+END
+console_common.pri
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gcs/!svn/ver/6/cppcheck-1.69/console_common.pri
+END
+readme_gui.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gcs/!svn/ver/6/cppcheck-1.69/readme_gui.txt
+END
+cppcheck.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/9/cppcheck-1.69/cppcheck.sdf
+END
+cppcheck.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cppcheck.sln
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gcs/!svn/ver/6/cppcheck-1.69/COPYING
+END
+cppcheck.cppcheck
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gcs/!svn/ver/6/cppcheck-1.69/cppcheck.cppcheck
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gcs/!svn/ver/6/cppcheck-1.69/readme.txt
+END
+.travis_suppressions
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gcs/!svn/ver/6/cppcheck-1.69/.travis_suppressions
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gcs/!svn/ver/6/cppcheck-1.69/build.bat
+END
+readme_64-bit_Windows.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gcs/!svn/ver/6/cppcheck-1.69/readme_64-bit_Windows.txt
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gcs/!svn/ver/6/cppcheck-1.69/.travis.yml
+END
+appveyor.yml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/appveyor.yml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gcs/!svn/ver/6/cppcheck-1.69/.gitignore
+END
+.mailmap
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gcs/!svn/ver/6/cppcheck-1.69/.mailmap
+END
+readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gcs/!svn/ver/6/cppcheck-1.69/readme.md
+END
+webreport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gcs/!svn/ver/6/cppcheck-1.69/webreport.sh
+END
+runastyle
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gcs/!svn/ver/6/cppcheck-1.69/runastyle
+END

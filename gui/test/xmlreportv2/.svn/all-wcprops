@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/xmlreportv2
+END
+xmlreportv2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/xmlreportv2/xmlreportv2.pro
+END
+testxmlreportv2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/xmlreportv2/testxmlreportv2.cpp
+END
+testxmlreportv2.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gcs/!svn/ver/6/cppcheck-1.69/gui/test/xmlreportv2/testxmlreportv2.h
+END

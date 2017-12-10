@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.75"/>
+    <errors>
+        <error id="AssignmentAddressToInteger" severity="portability" msg="Assigning a pointer to an integer is not portable." verbose="Assigning a pointer to an integer (int/long/etc) is not portable across different platforms and compilers. For example in 32-bit Windows and linux they are same width, but in 64-bit Windows and linux they are of different width. In worst case you end up assigning 64-bit address to 32-bit integer. The safe way is to store addresses only in pointer types (or typedefs like uintptr_t)." cwe="758">
+            <location file0="samples\AssignmentAddressToInteger\bad.c" file="samples\AssignmentAddressToInteger\bad.c" line="3"/>
+        </error>
+        <error id="arrayIndexOutOfBounds" severity="error" msg="Array &apos;a[2]&apos; accessed at index 2, which is out of bounds." verbose="Array &apos;a[2]&apos; accessed at index 2, which is out of bounds." cwe="119">
+            <location file0="samples\arrayIndexOutOfBounds\bad.c" file="samples\arrayIndexOutOfBounds\bad.c" line="6"/>
+        </error>
+        <error id="autoVariables" severity="error" msg="Address of local auto-variable assigned to a function parameter." verbose="Dangerous assignment - the function parameter is assigned the address of a local auto-variable. Local auto-variables are reserved from the stack which is freed when the function ends. So the pointer to a local variable is invalid after the function ends." cwe="562">
+            <location file0="samples\autoVariables\bad.c" file="samples\autoVariables\bad.c" line="4"/>
+        </error>
+        <error id="arrayIndexOutOfBounds" severity="error" msg="Array &apos;a[2]&apos; accessed at index 2, which is out of bounds." verbose="Array &apos;a[2]&apos; accessed at index 2, which is out of bounds." cwe="119">
+            <location file0="samples\bufferAccessOutOfBounds\bad.c" file="samples\bufferAccessOutOfBounds\bad.c" line="6"/>
+        </error>
+        <error id="eraseDereference" severity="error" msg="Iterator &apos;iter&apos; used after element has been erased." verbose="The iterator &apos;iter&apos; is invalid after the element it pointed to has been erased. Dereferencing or comparing it with another iterator is invalid operation." cwe="664">
+            <location file0="samples\erase\bad.cpp" file="samples\erase\bad.cpp" line="11"/>
+            <location file0="samples\erase\bad.cpp" file="samples\erase\bad.cpp" line="9"/>
+        </error>
+        <error id="memleak" severity="error" msg="Memory leak: a" verbose="Memory leak: a" cwe="401">
+            <location file0="samples\memleak\bad.c" file="samples\memleak\bad.c" line="8"/>
+        </error>
+        <error id="bufferAccessOutOfBounds" severity="error" msg="Buffer is accessed out of bounds: str" verbose="Buffer is accessed out of bounds: str">
+            <location file0="samples\outOfBounds\bad.c" file="samples\outOfBounds\bad.c" line="5"/>
+        </error>
+        <error id="resourceLeak" severity="error" msg="Resource leak: a" verbose="Resource leak: a" cwe="775">
+            <location file0="samples\resourceLeak\bad.c" file="samples\resourceLeak\bad.c" line="8"/>
+        </error>
+        <error id="missingIncludeSystem" severity="information" msg="Cppcheck cannot find all the include files (use --check-config for details)" verbose="Cppcheck cannot find all the include files. Cppcheck can check the code without the include files found. But the results will probably be more accurate if all the include files are found. Please check your project&apos;s include directories and add all of them as include directories for Cppcheck. To see what files Cppcheck cannot find use --check-config."/>
+    </errors>
+</results>
